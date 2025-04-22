@@ -20,7 +20,7 @@ int main()
     float area2;
     float pib2;
 
-    // Entrada de dados da primeira carta
+    // entrada de dados da primeira carta
     printf("Carta 1:\n");
 
     printf("Estado (sigla - 1 letra): ");
